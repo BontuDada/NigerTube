@@ -31,11 +31,11 @@ android {
         ?: ""
 
     defaultConfig {
-        applicationId = "com.hutube.app"
+        applicationId = "com.niger.tube"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
-        versionName = "1.0.0"
+        versionName = "0.6.7"
 
         buildConfigField("String", "DEFAULT_CLIENT_ID", "\"$defaultClientId\"")
         buildConfigField("String", "DEFAULT_CLIENT_SECRET", "\"$defaultClientSecret\"")
