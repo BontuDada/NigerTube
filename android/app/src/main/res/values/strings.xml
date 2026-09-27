@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NigerTube</string>
+    <string name="sign_in_title">Connect Google Drive</string>
+    <string name="sign_in_desc">Stream your movies, anime, and series without Google Drive playback errors</string>
+    <string name="category_anime">Anime</string>
+    <string name="category_cartoon">Cartoon</string>
+    <string name="category_series">Series</string>
+    <string name="category_movies">Movies</string>
+</resources>
